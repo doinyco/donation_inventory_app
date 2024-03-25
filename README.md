@@ -11,7 +11,7 @@ This repository contains a simple Python-based donation handling system. It offe
 ## Usage
 
 1. **Setup**: Ensure you have Python installed on your system.
-2. **Clone the Repository**: `git clone https://github.com/your-username/donation-handling-system.git`
+2. **Clone the Repository**: `git clone https://github.com/your-username/donation_inventory_app.git`
 3. **Navigate to the Directory**: `cd donation_inventory_app`
 4. **Run the Application**: Execute the `main.py` file to test the functionality.
 
