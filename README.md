@@ -1,5 +1,3 @@
-# donation_inventory_app
-
 # Donation Handling System
 
 This repository contains a simple Python-based donation handling system. It offers functionalities for registering donations, logging them, and generating reports based on the donations received.
